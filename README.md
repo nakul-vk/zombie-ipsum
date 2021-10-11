@@ -1,3 +1,3 @@
-#zombie-ipsum
+# ZOMBIE-IPSUM
 
 https://zombie-ipsum.netlify.app/
